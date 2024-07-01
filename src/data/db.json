@@ -1,0 +1,49 @@
+{
+  "todolist": [
+    {
+      "id": "1",
+      "task": "Learning",
+      "complete": false
+    },
+    {
+      "id": "3",
+      "task": "Learning Language",
+      "complete": false
+    },
+    {
+      "id": "12752e85-4d77-bea7-5f90-7a623cf95846",
+      "task": "Writing code ",
+      "complete": false
+    },
+    {
+      "id": "71199a94-2ec2-7db6-33c5-53aaff535d20",
+      "task": "Learnig English ",
+      "complete": false
+    },
+    {
+      "id": "94c1a153-df1a-0d0c-8a7f-49ebc9965326",
+      "task": "Depatment Meeting",
+      "complete": false
+    },
+    {
+      "id": "a88da0e9-56a9-dcc4-b813-b451f807fc8d",
+      "task": "Shopping Schedule",
+      "complete": false
+    },
+    {
+      "id": "731cb67d-be78-4cfa-2cae-b9f2bc94985b",
+      "task": "Adjustment Advertising",
+      "complete": false
+    },
+    {
+      "id": "34442320-ec68-e5e6-99e4-f79eb6a39c5e",
+      "task": "Checking Inventory",
+      "complete": false
+    },
+    {
+      "id": "fb50ae21-4c19-445b-a63a-e2a8d2e2deee",
+      "task": "Visiting Grandma",
+      "complete": false
+    }
+  ]
+}
